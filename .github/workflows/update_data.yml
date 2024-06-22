@@ -45,15 +45,15 @@ jobs:
           run: |
             mv temp/noticias.json ./
             mv temp/bossraid.json ./
-            mv temp/shinyrank.json ./
-            mv temp/spotlight.json ./
+            mv temp/rankshiny.json ./
+            mv temp/destacados.json ./
         
         - name: Modify JSON File
           run: |
             echo "" >> noticias.json
             echo "" >> bossraid.json
-            echo "" >> shinyrank.json
-            echo "" >> spotlight.json
+            echo "" >> rankshiny.json
+            echo "" >> destacados.json
         
         - name: Commit JSON Changes
           run: |
@@ -62,8 +62,8 @@ jobs:
             git switch --orphan data
             git add noticias.json
             git add bossraid.json
-            git add shinyrank.json
-            git add spotlight.json
+            git add rankshiny.json
+            git add destacados.json
             git commit -m "Data actualizada by 🤖 ງคēl 🍺"
     
         - name: Remove Temp Folder
