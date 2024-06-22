@@ -28,8 +28,17 @@ jobs:
         - name: Run Python Scripts
           run: |
             python noticias.py
+          
+        - name: Run Python Scripts
+          run: |
             python bossraid.py
+        
+        - name: Run Python Scripts
+          run: |
             python shinyrank.py
+        
+        - name: Run Python Scripts
+          run: |
             python spotlight.py
       
         - name: Move JSON Files to Working Directory
@@ -55,7 +64,7 @@ jobs:
             git add bossraid.json
             git add shinyrank.json
             git add spotlight.json
-            git commit -m "Data actualizada - by 🤖 ງคēl 🍺"
+            git commit -m "Data actualizada by 🤖 ງคēl 🍺"
     
         - name: Remove Temp Folder
           run: rm -r temp
