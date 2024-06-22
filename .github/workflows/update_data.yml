@@ -55,7 +55,7 @@ jobs:
             git add bossraid.json
             git add shinyrank.json
             git add spotlight.json
-            git commit -m "Datos actualizados 🤖 ງคēl 🍺"
+            git commit -m "Data actualizada - by 🤖 ງคēl 🍺"
     
         - name: Remove Temp Folder
           run: rm -r temp
