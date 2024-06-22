@@ -25,15 +25,26 @@ jobs:
             pip install requests
             pip install beautifulsoup4
      
-        - name: Run Python Script
-          run: python noticias.py
-        
-        - name: Move JSON File to Working Directory
-          run: mv temp/noticias.json ./
+        - name: Run Python Scripts
+          run: |
+            python noticias.py
+            python bossraid.py
+            python shinyrank.py
+            python spotlight.py
+      
+        - name: Move JSON Files to Working Directory
+          run: |
+            mv temp/noticias.json ./
+            mv temp/bossraid.json ./
+            mv temp/shinyrank.json ./
+            mv temp/spotlight.json ./
         
         - name: Modify JSON File
           run: |
-              echo "" >> noticias.json
+            echo "" >> noticias.json
+            echo "" >> bossraid.json
+            echo "" >> shinyrank.json
+            echo "" >> spotlight.json
         
         - name: Commit JSON Changes
           run: |
@@ -41,6 +52,9 @@ jobs:
             git config --local user.name "github-actions[bot]"
             git switch --orphan data
             git add noticias.json
+            git add bossraid.json
+            git add shinyrank.json
+            git add spotlight.json
             git commit -m "Datos actualizados 🤖 ງคēl 🍺"
     
         - name: Remove Temp Folder
