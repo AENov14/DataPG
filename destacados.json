@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Hora destacada de: Machop",
+        "start": "2024-09-24T18:00:00.000",
+        "end": "2024-09-24T19:00:00.000",
+        "extraData": {
+            "name": "Machop",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_066_00.png",
+            "bonus": "Doble de caramelos por captura",
+            "list": [
+                {
+                    "name": "Machop",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_066_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Candy"
+        }
+    }
+]
