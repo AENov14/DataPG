@@ -1,0 +1,205 @@
+{
+  "1st Tier": [
+    {
+      "No Dex": "#0100",
+      "Boss Name": "Voltorb",
+      "Boss CP": "3,409",
+      "Max Capture CP": "577",
+      "Max Capture CP Bosst": "721",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm100.icon.png"
+    },
+    {
+      "No Dex": "#0100",
+      "Boss Name": "Hisuian Voltorb",
+      "Boss CP": "3,409",
+      "Max Capture CP": "577",
+      "Max Capture CP Bosst": "721",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm100.icon.png"
+    },
+    {
+      "No Dex": "#0211",
+      "Boss Name": "Hisuian Qwilfish",
+      "Boss CP": "6,280",
+      "Max Capture CP": "1,220",
+      "Max Capture CP Bosst": "1,526",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm211.icon.png"
+    },
+    {
+      "No Dex": "#0215",
+      "Boss Name": "Hisuian Sneasel",
+      "Boss CP": "6,340",
+      "Max Capture CP": "1,172",
+      "Max Capture CP Bosst": "1,465",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm215.icon.png"
+    },
+    {
+      "No Dex": "#0747",
+      "Boss Name": "Mareanie",
+      "Boss CP": "3,094",
+      "Max Capture CP": "555",
+      "Max Capture CP Bosst": "694",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm747.icon.png"
+    }
+  ],
+  "3rd Tier": [
+    {
+      "No Dex": "#0026",
+      "Boss Name": "Alolan Raichu",
+      "Boss CP": "16,848",
+      "Max Capture CP": "1,306",
+      "Max Capture CP Bosst": "1,633",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm26.icon.png"
+    },
+    {
+      "No Dex": "#0110",
+      "Boss Name": "Galarian Weezing",
+      "Boss CP": "16,511",
+      "Max Capture CP": "1,310",
+      "Max Capture CP Bosst": "1,637",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm110.icon.png"
+    },
+    {
+      "No Dex": "#0503",
+      "Boss Name": "Hisuian Samurott",
+      "Boss CP": "18,066",
+      "Max Capture CP": "1,601",
+      "Max Capture CP Bosst": "2,001",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm503.icon.png"
+    },
+    {
+      "No Dex": "#0713",
+      "Boss Name": "Hisuian Avalugg",
+      "Boss CP": "21,854",
+      "Max Capture CP": "1,975",
+      "Max Capture CP Bosst": "2,469",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm713.icon.png"
+    }
+  ],
+  "5th Tier": [
+    {
+      "No Dex": "#0483",
+      "Boss Name": "Origin Forme Dialga",
+      "Boss CP": "54,074",
+      "Max Capture CP": "2,337",
+      "Max Capture CP Bosst": "2,921",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm483.icon.png"
+    },
+    {
+      "No Dex": "#0484",
+      "Boss Name": "Origin Forme Palkia",
+      "Boss CP": "56,872",
+      "Max Capture CP": "2,367",
+      "Max Capture CP Bosst": "2,958",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm484.icon.png"
+    }
+  ],
+  "Mega Raids": [
+    {
+      "No Dex": "#0015",
+      "Boss Name": "Mega Beedrill",
+      "Boss CP": "38,516",
+      "Max Capture CP": "1,054",
+      "Max Capture CP Bosst": "1,318",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm15.icon.png"
+    },
+    {
+      "No Dex": "#0181",
+      "Boss Name": "Mega Ampharos",
+      "Boss CP": "43,282",
+      "Max Capture CP": "1,630",
+      "Max Capture CP Bosst": "2,037",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm181.icon.png"
+    }
+  ],
+  "1st Tier Shadow Raids": [
+    {
+      "No Dex": "#0066",
+      "Boss Name": "Machop",
+      "Boss CP": "3,666",
+      "Max Capture CP": "730",
+      "Max Capture CP Bosst": "913",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm66.icon.png"
+    },
+    {
+      "No Dex": "#0088",
+      "Boss Name": "Grimer",
+      "Boss CP": "3,764",
+      "Max Capture CP": "785",
+      "Max Capture CP Bosst": "981",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm88.icon.png"
+    },
+    {
+      "No Dex": "#0102",
+      "Boss Name": "Exeggcute",
+      "Boss CP": "3,535",
+      "Max Capture CP": "671",
+      "Max Capture CP Bosst": "839",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm102.icon.png"
+    },
+    {
+      "No Dex": "#0185",
+      "Boss Name": "Sudowoodo",
+      "Boss CP": "6,161",
+      "Max Capture CP": "1,227",
+      "Max Capture CP Bosst": "1,534",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm185.icon.png"
+    }
+  ],
+  "3rd Tier Shadow Raids": [
+    {
+      "No Dex": "#0127",
+      "Boss Name": "Pinsir",
+      "Boss CP": "22,458",
+      "Max Capture CP": "1,690",
+      "Max Capture CP Bosst": "2,113",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm127.icon.png"
+    },
+    {
+      "No Dex": "#0302",
+      "Boss Name": "Sableye",
+      "Boss CP": "12,123",
+      "Max Capture CP": "843",
+      "Max Capture CP Bosst": "1,054",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm302.icon.png"
+    },
+    {
+      "No Dex": "#0303",
+      "Boss Name": "Mawile",
+      "Boss CP": "13,428",
+      "Max Capture CP": "934",
+      "Max Capture CP Bosst": "1,167",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm303.icon.png"
+    }
+  ],
+  "Legendary Shadow Raids": [
+    {
+      "No Dex": "#0245",
+      "Boss Name": "Suicune",
+      "Boss CP": "37,761",
+      "Max Capture CP": "1,704",
+      "Max Capture CP Bosst": "2,130",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm245.icon.png"
+    }
+  ]
+}
