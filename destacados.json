@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Hora destacada de: Joltik, Joltik",
+        "start": "2024-11-26T18:00:00.000",
+        "end": "2024-11-26T19:00:00.000",
+        "extraData": {
+            "name": "Joltik",
+            "canBeShiny": true,
+            "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png",
+            "bonus": "Doble de experiencia por captura",
+            "list": [
+                {
+                    "name": "Joltik",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png"
+                },
+                {
+                    "name": "Joltik",
+                    "canBeShiny": true,
+                    "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_595_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch XP"
+        }
+    }
+]

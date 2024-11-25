@@ -1,0 +1,91 @@
+{
+  "3rd Tier": [
+    {
+      "No Dex": "#0003",
+      "Boss Name": "Venusaur",
+      "Boss CP": "18,253",
+      "Max Capture CP": "1,554",
+      "Max Capture CP Bosst": "1,943",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm3.icon.png"
+    },
+    {
+      "No Dex": "#0143",
+      "Boss Name": "Studded Jacket Snorlax",
+      "Boss CP": "16,684",
+      "Max Capture CP": "1,843",
+      "Max Capture CP Bosst": "2,304",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm143.icon.png"
+    },
+    {
+      "No Dex": "#0466",
+      "Boss Name": "Electivire",
+      "Boss CP": "21,133",
+      "Max Capture CP": "1,759",
+      "Max Capture CP Bosst": "2,199",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm466.icon.png"
+    }
+  ],
+  "4th Tier": [
+    {
+      "No Dex": "#0849",
+      "Boss Name": "Amped Form Toxtricity",
+      "Boss CP": "28,228",
+      "Max Capture CP": "1,486",
+      "Max Capture CP Bosst": "1,858",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm849.icon.png"
+    },
+    {
+      "No Dex": "#0849",
+      "Boss Name": "Low Key Form Toxtricity",
+      "Boss CP": "28,228",
+      "Max Capture CP": "1,486",
+      "Max Capture CP Bosst": "1,858",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm849.icon.png"
+    }
+  ],
+  "5th Tier": [
+    {
+      "No Dex": "#0483",
+      "Boss Name": "Origin Forme Dialga",
+      "Boss CP": "54,074",
+      "Max Capture CP": "2,337",
+      "Max Capture CP Bosst": "2,921",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm483.icon.png"
+    },
+    {
+      "No Dex": "#0484",
+      "Boss Name": "Origin Forme Palkia",
+      "Boss CP": "56,872",
+      "Max Capture CP": "2,367",
+      "Max Capture CP Bosst": "2,958",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm484.icon.png"
+    }
+  ],
+  "Primal Raids": [
+    {
+      "No Dex": "#0382",
+      "Boss Name": "Primal Kyogre",
+      "Boss CP": "92,860",
+      "Max Capture CP": "2,351",
+      "Max Capture CP Bosst": "2,939",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm382.icon.png"
+    },
+    {
+      "No Dex": "#0383",
+      "Boss Name": "Primal Groudon",
+      "Boss CP": "92,860",
+      "Max Capture CP": "2,351",
+      "Max Capture CP Bosst": "2,939",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm383.icon.png"
+    }
+  ]
+}
