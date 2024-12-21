@@ -1,0 +1,121 @@
+[
+    {
+        "name": "Hora destacada de: Holiday Delibird",
+        "start": "2024-12-24T18:00:00.000",
+        "end": "2024-12-24T19:00:00.000",
+        "extraData": {
+            "name": "Holiday Delibird",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm225.fWINTER_2020.icon.png",
+            "bonus": "Doble de caramelos por transferencia",
+            "list": [
+                {
+                    "name": "Holiday Delibird",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm225.fWINTER_2020.icon.png"
+                }
+            ],
+            "bonusimg": "2× Transfer Candy"
+        }
+    },
+    {
+        "name": "Hora destacada de: Togetic",
+        "start": "2024-12-31T18:00:00.000",
+        "end": "2024-12-31T19:00:00.000",
+        "extraData": {
+            "name": "Togetic",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_176_00.png",
+            "bonus": "Doble de experiencia por evolución",
+            "list": [
+                {
+                    "name": "Togetic",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_176_00.png"
+                }
+            ],
+            "bonusimg": "2× Evolution XP"
+        }
+    },
+    {
+        "name": "Hora destacada de: Voltorb, Hisuian Voltorb",
+        "start": "2025-01-07T18:00:00.000",
+        "end": "2025-01-07T19:00:00.000",
+        "extraData": {
+            "name": "Voltorb",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_100_00.png",
+            "bonus": "Doble de polvo estelar por captura",
+            "list": [
+                {
+                    "name": "Voltorb",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_100_00.png"
+                },
+                {
+                    "name": "Hisuian Voltorb",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm100.fHISUIAN.icon.png"
+                }
+            ],
+            "bonusimg": "2× Catch Stardust"
+        }
+    },
+    {
+        "name": "Hora destacada de: Roselia",
+        "start": "2025-01-14T18:00:00.000",
+        "end": "2025-01-14T19:00:00.000",
+        "extraData": {
+            "name": "Roselia",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_315_00.png",
+            "bonus": "Doble de experiencia por captura",
+            "list": [
+                {
+                    "name": "Roselia",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_315_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch XP"
+        }
+    },
+    {
+        "name": "Hora destacada de: Paldean Wooper",
+        "start": "2025-01-21T18:00:00.000",
+        "end": "2025-01-21T19:00:00.000",
+        "extraData": {
+            "name": "Paldean Wooper",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm194.fPALDEA.icon.png",
+            "bonus": "Doble de caramelos por captura",
+            "list": [
+                {
+                    "name": "Paldean Wooper",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm194.fPALDEA.icon.png"
+                }
+            ],
+            "bonusimg": "2× Catch Candy"
+        }
+    },
+    {
+        "name": "Hora destacada de: Yungoos",
+        "start": "2025-01-28T18:00:00.000",
+        "end": "2025-01-28T19:00:00.000",
+        "extraData": {
+            "name": "Yungoos",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm734.icon.png",
+            "bonus": "Doble de caramelos por transferencia",
+            "list": [
+                {
+                    "name": "Yungoos",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm734.icon.png"
+                }
+            ],
+            "bonusimg": "2× Transfer Candy"
+        }
+    }
+]
