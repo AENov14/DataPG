@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Hora destacada de: Carvanha",
+        "start": "2025-02-04T18:00:00.000",
+        "end": "2025-02-04T19:00:00.000",
+        "extraData": {
+            "name": "Carvanha",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png",
+            "bonus": "Doble de experiencia por evolución",
+            "list": [
+                {
+                    "name": "Carvanha",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_318_00.png"
+                }
+            ],
+            "bonusimg": "2× Evolution XP"
+        }
+    },
+    {
+        "name": "Hora destacada de: Luvdisc",
+        "start": "2025-02-11T18:00:00.000",
+        "end": "2025-02-11T19:00:00.000",
+        "extraData": {
+            "name": "Luvdisc",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_370_00.png",
+            "bonus": "Doble de polvo estelar por captura",
+            "list": [
+                {
+                    "name": "Luvdisc",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_370_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Stardust"
+        }
+    },
+    {
+        "name": "Hora destacada de: Inkay",
+        "start": "2025-02-18T18:00:00.000",
+        "end": "2025-02-18T19:00:00.000",
+        "extraData": {
+            "name": "Inkay",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_686_00.png",
+            "bonus": "Doble de experiencia por captura",
+            "list": [
+                {
+                    "name": "Inkay",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_686_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch XP"
+        }
+    },
+    {
+        "name": "Hora destacada de: Inkay",
+        "start": "2025-02-25T18:00:00.000",
+        "end": "2025-02-25T19:00:00.000",
+        "extraData": {
+            "name": "Inkay",
+            "canBeShiny": true,
+            "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_686_00.png",
+            "bonus": "Doble de caramelos por captura",
+            "list": [
+                {
+                    "name": "Inkay",
+                    "canBeShiny": true,
+                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_686_00.png"
+                }
+            ],
+            "bonusimg": "2× Catch Candy"
+        }
+    }
+]
