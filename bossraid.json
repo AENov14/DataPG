@@ -1,0 +1,109 @@
+{
+  "1st Tier": [
+    {
+      "No Dex": "#0025",
+      "Boss Name": "Hilbert's hat Pikachu",
+      "Boss CP": "3,277",
+      "Max Capture CP": "536",
+      "Max Capture CP Bosst": "670",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm25.icon.png"
+    },
+    {
+      "No Dex": "#0025",
+      "Boss Name": "Hilda's hat Pikachu",
+      "Boss CP": "3,277",
+      "Max Capture CP": "536",
+      "Max Capture CP Bosst": "670",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm25.icon.png"
+    },
+    {
+      "No Dex": "#0025",
+      "Boss Name": "Nate's visor Pikachu",
+      "Boss CP": "3,277",
+      "Max Capture CP": "536",
+      "Max Capture CP Bosst": "670",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm25.icon.png"
+    },
+    {
+      "No Dex": "#0025",
+      "Boss Name": "Rosa's visor Pikachu",
+      "Boss CP": "3,277",
+      "Max Capture CP": "536",
+      "Max Capture CP Bosst": "670",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm25.icon.png"
+    }
+  ],
+  "3rd Tier": [
+    {
+      "No Dex": "#0621",
+      "Boss Name": "Druddigon",
+      "Boss CP": "18,606",
+      "Max Capture CP": "1,561",
+      "Max Capture CP Bosst": "1,951",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm621.icon.png"
+    }
+  ],
+  "5th Tier": [
+    {
+      "No Dex": "#0643",
+      "Boss Name": "Reshiram",
+      "Boss CP": "53,394",
+      "Max Capture CP": "2,307",
+      "Max Capture CP Bosst": "2,884",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm643.icon.png"
+    },
+    {
+      "No Dex": "#0644",
+      "Boss Name": "Zekrom",
+      "Boss CP": "53,394",
+      "Max Capture CP": "2,307",
+      "Max Capture CP Bosst": "2,884",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm644.icon.png"
+    },
+    {
+      "No Dex": "#0646",
+      "Boss Name": "White Kyurem",
+      "Boss CP": "56,009",
+      "Max Capture CP": "2,042",
+      "Max Capture CP Bosst": "2,553",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm646.icon.png"
+    },
+    {
+      "No Dex": "#0646",
+      "Boss Name": "Black Kyurem",
+      "Boss CP": "56,009",
+      "Max Capture CP": "2,042",
+      "Max Capture CP Bosst": "2,553",
+      "Shiny": "Yes",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm646.icon.png"
+    }
+  ],
+  "3rd Tier Shadow Raids": [
+    {
+      "No Dex": "#0538",
+      "Boss Name": "Throh",
+      "Boss CP": "15,645",
+      "Max Capture CP": "1,464",
+      "Max Capture CP Bosst": "1,830",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm538.icon.png"
+    },
+    {
+      "No Dex": "#0539",
+      "Boss Name": "Sawk",
+      "Boss CP": "20,165",
+      "Max Capture CP": "1,593",
+      "Max Capture CP Bosst": "1,991",
+      "Shiny": "No",
+      "Pokemon Image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/pm539.icon.png"
+    }
+  ]
+}
